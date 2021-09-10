@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "myname": "Siyaram",
+      "myemail": "siyaram@gmail.com",
+      "mypassword": "123456",
+      "mymobile": "98787878789"
+    },
+    {
+      "id": 2
+    },
+    {
+      "{\"myname\":\"Siyaram\",\"myemail\":\"siyaram@gmail.com\",\"mypassword\":\"123456\",\"mymobile\":\"7878888888\"}": "",
+      "id": 3
+    },
+    {
+      "myname": "Siyaram",
+      "myemail": "siyaram2@gmail.com",
+      "mypassword": "123456",
+      "mymobile": "7777777777",
+      "id": 4
+    }
+  ]
+}

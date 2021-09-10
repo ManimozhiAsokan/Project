@@ -1,0 +1,26 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"Apple",
+            "price":250,
+            "photo":"https://tse2.mm.bing.net/th?id=OIP.tSGgVuz15u1hA57c6yc20gHaNK&pid=Api&P=0&w=300&h=300",
+            "details":"This is good and red color apple with extra energy"
+        },
+        {
+            "id":2,
+            "name":"Milk",
+            "price":25,
+            "photo":"https://tse4.mm.bing.net/th?id=OIP.AWzJMDh_iUDPr-bO0qJa1AHaJ4&pid=Api&P=0&w=300&h=300",
+            "details":"This is milk by Nandini products"
+        }
+    ],
+    "cart":[]
+	{
+		"name":"Mango",
+		"price":"100",
+		"photo":"https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg",
+		"details":"This is best Product",
+		"id":"3"
+		}
+}
